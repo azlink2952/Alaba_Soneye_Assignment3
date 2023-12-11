@@ -1,0 +1,189 @@
+body{
+    background-color: #f5f8fa;
+}
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+.logo {
+    margin-right: 35%;
+}
+.link ul {
+    display: flex;
+    list-style: none;
+    margin-left: 7%;
+    width: 100%;
+}
+.link ul a {
+    text-decoration: none;
+    margin-right: 50px;
+    color: #1d2c3c;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -0.01px;
+}
+.account {
+    border: 2px solid;
+    border-color: #646e7a;
+    border-radius: 6px;
+    height: 40px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 91px;
+    padding: 8px 20px 8px 20px;
+}
+.circle {
+    border: solid 2px rgb(6, 108, 177);
+    border-radius: 100%;
+    padding: 5px 8px 5px 8px;
+    font-weight: bolder;
+    color: rgb(6, 108, 177);
+    margin-right: 10px;
+    font-family: "lato-regular", Helvetica;
+}
+.label {
+    width: 161px;
+}
+.label .text-wrapper {
+    color: #1d2c3c;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    text-shadow: 0px 4px 4px #00000040;
+    top: 0;
+    width: 161px;
+}
+.labell {
+    width: 220px;
+}
+.labell .your-basic-informati {
+    color: #1d2c3c;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -0.16px;
+    line-height: normal;
+    position: relative;
+    top: 0;
+}
+.hero-section {
+    display: flex;
+    padding: 100px 300px 60px 300px;
+}
+.second {
+    display: flex;
+    align-items: center;
+}
+.hero1 {
+    background-color:#ffffff;
+    box-shadow: -2px 4px 10px -4px #0000005e;
+    padding: 20px;
+}
+.sep {
+    display: flex;
+}
+.fname {
+    padding-right: 35px;
+}
+input {
+    background-color:#646e7a1a;
+    border: #ffffff;
+    padding: 10px;
+    border-radius: 5px;
+}
+.email {
+    width: 70%;
+}
+.cardn {
+    background-color:#646e7a1a;
+    width: 95%;
+}
+.butt {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 700;
+}
+button {
+    background-color: #038e7e;
+    border-radius: 5px;
+    height: 54px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 485px;
+    border-color: #038e7e04;
+    margin-top: 80px;
+}
+.break {
+    display: flex;
+    align-items: center;
+    padding-top: 20px;
+    justify-content: center;
+}
+.labelll {
+    width: 303px;
+}
+.labelll .need-any-help-don-t {
+    color: transparent;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.01px;
+    line-height: normal;
+    position: relative;
+    top: 0;
+    white-space: nowrap;
+    width: 303px;
+}
+.labelll .text-wrapper2 {
+    color: #1d2c3c;
+    font-weight: 700;
+}
+.labelll .span {
+    color: #646e7a;
+    font-family: "Lato-Regular", Helvetica;
+}
+.svvg {
+    margin-right: 10px;
+}
+.last {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.hero3 {
+    background-color: #1179bf;
+    border-radius: 0px 6px 6px 0px;
+    height: 797px;
+    left: 0;
+    position: relative;
+    top: 0;
+    width: 404px;
+    padding: 30px;
+}
+.Free {
+    width: 93px;
+}
+.Free .text-wrapper4 {
+    color: #ffffff;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.01px;
+    line-height: normal;
+    position: relative;
+    top: 0;
+    white-space: nowrap;
+}
