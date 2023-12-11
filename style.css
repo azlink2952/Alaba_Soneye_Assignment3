@@ -187,3 +187,228 @@ button {
     top: 0;
     white-space: nowrap;
 }
+.dollar {
+    width: 14px;
+    padding-right: 7px;
+}
+.dollar .text-wrapper5 {
+    color: #ffffff;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.01px;
+    line-height: normal;
+    position: relative;
+    top: -7px;
+}
+.set {
+    display: flex;
+    align-items:center;
+    margin-top: -50px;
+}
+.ninet {
+    width: 121px;
+}
+.ninet .element-year {
+    color: #ffffff;
+    font-family: calibri;
+    font-size: 60px;
+    font-weight: lighter;
+    left: 0;
+    letter-spacing: -0.01px;
+    line-height: normal;
+    position: relative;
+    top: 0;
+    white-space: nowrap;
+}
+.ninet .text-wrapper6 {
+    font-weight: 1px;
+}
+.ninet .spa {
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+}
+.lbel {
+    width: 229px;
+}
+.lbel .automatically-renews {
+    color: #ffffff;
+    font-family: "Lato-Italic", Helvetica;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.01px;
+    line-height: 24px;
+    position: relative;
+    top: -80px;
+    width: 229px;
+}
+.abel {
+    width: 141px;
+    margin-top: -13px;
+}
+.abel .lexcontainer {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    width: 141px;
+}
+.abel .text {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: -0.01px;
+    position: relative;
+}
+.abel .text-wrapper8 {
+    color: #ffffff;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: -0.01px;
+}
+.abel .spn {
+    font-family: "Lato-Bold", Helvetica;
+    font-weight: 400;
+}
+.flx {
+    display: flex;
+    margin-top: -60px;
+}
+.vg {
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
+.lael {
+    height: 50px;
+    width: 186px;
+}
+.lael .flexontainer {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    height: 50px;
+    position: relative;
+    width: 186px;
+}
+.lael .text {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: -0.01px;
+    line-height: normal;
+    margin-bottom: -7px;
+    position: relative;
+}
+.lael .text-wrapper9 {
+    color: #ffffff;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 200;
+    letter-spacing: -0.01px;
+}
+.lael .san {
+    font-family: "Lato-Bold", Helvetica;
+    font-weight: 600;
+}
+.lael .div {
+    align-self: stretch;
+    color: #ffffff;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 200;
+    letter-spacing: -0.01px;
+    line-height: normal;
+    margin-bottom: -26px;
+    position: relative;
+}
+.lael .text-wrapper-2 {
+    font-family: "Lato-BoldItalic", Helvetica;
+    font-style: italic;
+    font-weight: 400;
+}
+.line {
+    margin-top: 55px;
+    margin-left: 1px;
+}
+.labe {
+    margin-top: 46px;
+    width: 210px;
+    }
+    .labe .FTP-is-horrible-to-d {
+    color: #ffffff;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 300;
+    left: 0;
+    letter-spacing: -0.01px;
+    line-height: 24px;
+    position: relative;
+    top: 0;
+    width: 214px;
+    }
+    .labe .text-wrappe {
+    font-family: "Lato-Italic", Helvetica;
+    font-style: italic;
+    }
+    .labe .pan {
+    font-family: "Lato-BoldItalic", Helvetica;
+    font-style: italic;
+    font-weight: 700;
+    }
+    .lal {
+        width: 76px;
+        }
+        .lal .text-wrapp {
+        color: #ffffff;
+        font-family: "Lato-Bold", Helvetica;
+        font-size: 16px;
+        font-weight: 700;
+        left: 0;
+        letter-spacing: -0.01px;
+        line-height: normal;
+        position: relative;
+        top: 0;
+        white-space: nowrap;
+        }
+        .last-flex {
+            display: flex;
+            align-items: center;
+        }
+        .bitm {
+            padding-right: 20px;
+        }
+        .la {
+            width: 867px;
+            padding: 0px 300px 10px 300px;
+            margin-top: -50px;
+            }
+            .la .element-WP-pusher-IVS {
+            color: transparent;
+            font-family: "Lato-Regular", Helvetica;
+            font-size: 14px;
+            font-weight: 400;
+            left: 0;
+            letter-spacing: 0;
+            line-height: normal;
+            position: relative;
+            text-align: center;
+            top: 0;
+            width: 867px;
+            }
+            .la .text-rapper {
+            color: #636b6f;
+            }
+            .la .an {
+            color: #31708f;
+            }
+            
