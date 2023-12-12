@@ -81,6 +81,7 @@ body{
 .second {
     display: flex;
     align-items: center;
+    margin-top: 60px;
 }
 .hero1 {
     background-color:#ffffff;
@@ -98,6 +99,9 @@ input {
     border: #ffffff;
     padding: 10px;
     border-radius: 5px;
+}
+label {
+    font-family: calibri;
 }
 .email {
     width: 70%;
@@ -122,7 +126,7 @@ button {
     top: 0;
     width: 485px;
     border-color: #038e7e04;
-    margin-top: 80px;
+    margin-top: 95px;
 }
 .break {
     display: flex;
@@ -330,6 +334,10 @@ button {
     line-height: normal;
     margin-bottom: -26px;
     position: relative;
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+    text-underline-offset: 3px;
+    text-decoration-color: #ffffff31;
 }
 .lael .text-wrapper-2 {
     font-family: "Lato-BoldItalic", Helvetica;
@@ -339,6 +347,7 @@ button {
 .line {
     margin-top: 55px;
     margin-left: 1px;
+    border: solid 1px rgba(93, 165, 173, 0.911);
 }
 .labe {
     margin-top: 46px;
